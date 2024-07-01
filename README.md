@@ -13,7 +13,7 @@ Profile views<br>
 
 
 
-### I live in Turkey, I am 18 years old and as an aspiring software developer, I want to share and develop my passion for software development and my experience in this field. I have completed various projects focusing on web development and discord bots development. In these projects, I have used programming languages such as Php, Html, Css, JavaScript and frameworks such as Tailwind and React. By sharing my work on github, I want to get feedback from experienced developers and inspire other young people who are interested in software development. I welcome your feedback, suggestions and criticism.
+### Hi, I'am Aydocs, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I live in Turkey, I am 18 years old and as an aspiring software developer, I want to share and develop my passion for software development and my experience in this field. I have completed various projects focusing on web development and discord bots development. In these projects, I have used programming languages such as Php, Html, Css, JavaScript and frameworks such as Tailwind and React. By sharing my work on github, I want to get feedback from experienced developers and inspire other young people who are interested in software development. I welcome your feedback, suggestions and criticism.
 
 ## Github Stats 
 
@@ -41,32 +41,21 @@ Profile views<br>
 
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+<br />
+<br />
 
-<br />
-<br />
 
 ### Back-End Development Toolls
-
 [![My Skills](https://skillicons.dev/icons?i=php,js,py)](https://skillicons.dev)
-<br />
-<br />
-
 
 ### Development Environment Tools
-
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,git)](https://skillicons.dev)
-<br />
-<br />
-
 
 ### Design Tools
-
 [![My Skills](https://skillicons.dev/icons?i=ae,photoshop,figma)](https://skillicons.dev)
-<br />
-<br />
 
 ### Most Used Languages
 
