@@ -64,5 +64,5 @@ Profile views<br>
 ### Most Used Languages
 
 <detalis>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harlexq&layout=compact" width=40%>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydocs&layout=compact" width=40%>
 </detalis>
