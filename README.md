@@ -57,6 +57,10 @@ Profile views<br>
 ### Design Tools
 [![My Skills](https://skillicons.dev/icons?i=ae,photoshop,figma)](https://skillicons.dev)
 
+## Commits
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ### Most Used Languages
 
 <detalis>
