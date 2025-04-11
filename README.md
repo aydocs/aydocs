@@ -5,7 +5,7 @@
 
 ---
 
-### 👋 Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
+### Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
 
 I'm 19 years old and living in Turkey. As an aspiring software developer, I love sharing and growing my passion for coding. I’ve completed various projects focused on **web development** and **Discord bot development**. 
 
