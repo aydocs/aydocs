@@ -1,3 +1,9 @@
+ <p align="center"> 
+Profile views<br>
+  
+ <img src="https://profile-counter.glitch.me/aydocs/count.svg" />
+</p>
+
 ### Hi, I'am Aydocs, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I live in Turkey, I am 19 years old and as an aspiring software developer, I want to share and develop my passion for software development and my experience in this field. I have completed various projects focusing on web development and discord bots development. In these projects, I have used programming languages such as Php, Html, Css, JavaScript and frameworks such as Tailwind and React. By sharing my work on github, I want to get feedback from experienced developers and inspire other young people who are interested in software development. I welcome your feedback, suggestions and criticism.
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
