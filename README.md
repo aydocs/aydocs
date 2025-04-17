@@ -27,18 +27,107 @@
 ## 💻 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,vue,nodejs,express,php,mysql,mongodb,docker,linux,git,github,figma,photoshop,xd,ae" alt="Tech Stack Icons" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=💻+Tech+Stack+%26+Skills" />
 </p>
 
-### 🚀 Core Skills
+---
 
-- **Front-End:** React, Next.js, Vue.js, Tailwind CSS, Bootstrap  
-- **Back-End:** Node.js, Express.js, PHP  
-- **Database:** MySQL, MongoDB  
-- **DevOps:** Docker, Linux, CI/CD  
-- **Version Control:** Git, GitHub  
-- **Design & UI/UX:** Figma, Adobe XD, Photoshop, Illustrator
+### 🖥️ **Programming Languages**:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+</p>
 
+---
+
+### 🛠️ **Front-End Technologies**:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue" />
+</p>
+
+---
+
+### ⚙️ **Back-End Technologies**:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+---
+
+### 🗄️ **Databases**:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### 🧑‍💻 **DevOps & Infrastructure**:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux" />
+</p>
+
+---
+
+### 🔧 **Version Control**:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+### 🎨 **Design & UI/UX Tools**:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,xd,ae" />
+</p>
+
+---
+
+### 💡 What I Love to Build:
+- **🎨 Front-End Development**:  
+  Building stunning, responsive UIs with modern frameworks like **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.
+  
+- **⚙️ Back-End Development**:  
+  Crafting high-performance, server-side applications using **Node.js**, **Express.js**, and **PHP**.
+
+- **🔗 Full-Stack Development**:  
+  Bridging the gap between the front-end and back-end to create seamless, full-fledged web applications.
+
+- **⚡ Web Performance Optimization**:  
+  Focusing on enhancing website speed, performance, and user experience with cutting-edge techniques.
+
+---
+
+### 🌱 Currently Learning:
+- **TypeScript**: Perfecting my skills for writing clean, scalable, type-safe applications.
+- **Next.js**: Deep diving into Next.js for building modern, SEO-friendly React apps.
+- **Web Performance**: Mastering performance optimization techniques for faster, smoother web experiences.
+
+---
+
+## 🚀 Technologies & Skills:
+
+### 🖥️ **Programming Languages**:
+- **PHP**, **HTML**, **CSS**, **JavaScript**, **TypeScript**
+
+### 🛠️ **Front-End Technologies**:
+- **React**, **Next.js**, **Vue.js**, **Tailwind CSS**, **Bootstrap**
+
+### ⚙️ **Back-End Technologies**:
+- **Node.js**, **Express.js**, **PHP**, **MySQL**, **MongoDB**
+
+### 💡 **Design & Tools**:
+- **Figma**, **Adobe XD**, **Photoshop**, **Illustrator**
+
+### ⚙️ **DevOps & Infrastructure**:
+- **Docker**, **CI/CD**, **Linux**, **Git**, **GitHub**, **WordPress**
+
+---
+
+## 📊 GitHub Stats That SLAP
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aydocs&count_private=true&show_icons=true&theme=radical&hide_border=true&title_color=F75C19&icon_color=F7C340" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydocs&layout=compact&show_icons=true&theme=radical&hide_border=true" width="45%" />
+</p>
 ---
 
 ## 📂 Featured Projects
