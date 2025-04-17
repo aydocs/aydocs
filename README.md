@@ -1,121 +1,92 @@
+# Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
+
 <p align="center">
-  Profile views<br>
-  <img src="https://profile-counter.glitch.me/aydocs/count.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Faster+One&size=40&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=🎉+Welcome+to+My+World!;💻+Code+is+My+Canvas!;🚀+Let's+Build+Something+Epic!" alt="Animated Welcome"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/aydocs/count.svg" alt="Visitor Count" />
 </p>
 
 ---
 
-### Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
+## Who Am I?
 
-I'm 19 years old, living in Turkey, and deeply passionate about coding. I see programming as not just a skill but a way to express creativity and solve problems. Over the years, I’ve worked on several exciting projects, with a primary focus on **Full-Stack Web Development**, **DevOps - System Development** and **Security / Ethical Hacking (Cybersecurity Development)**.
+<details>
+<summary>📜 Quick Bio</summary>
 
-I believe in constantly learning and improving, which is why I’m always exploring new technologies and diving deeper into the world of software development.
+- 🎂 **Age**: 19  
+- 🌍 **Location**: Turkey  
+- 💻 **Expertise**: Full-Stack | DevOps | Cybersecurity  
+- 🧠 **Mindset**: Creativity + Logic = Innovation
 
-### 🚀 Technologies & Skills:
-- **Languages**:  
-  **PHP**, **HTML**, **CSS**, **JavaScript**, **TypeScript**
-- **Frameworks & Libraries**:  
-  **React**, **Next.js**, **Vue.js**, **Tailwind CSS**, **Node.js**
-- **Back-End**:  
-  **Express.js**, **PHP**, **MySQL**, **MongoDB**
-- **Tools & Platforms**:  
-  **Git**, **GitHub**, **Docker**, **CI/CD**, **WordPress**
-- **Design & UI/UX**:  
-  **Figma**, **Adobe XD**, **Photoshop**, **Illustrator**
-
-### 🌐 What I Love to Build:
-- **Front-End Development**:  
-  Creating interactive and responsive UIs with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**. I’m passionate about building websites and applications that are visually appealing and easy to use.
-  
-- **Back-End Development**:  
-  Building robust server-side applications using **Node.js**, **Express.js**, and **PHP**, focusing on performance, scalability, and security. Experienced in integrating **MySQL** and **MongoDB**.
-
-- **Full-Stack Development**:  
-  Combining my front-end and back-end knowledge to develop seamless web applications.
-
-- **Web Performance Optimization**:  
-  Always improving web speed, performance, and accessibility to create fast, responsive user experiences.
-
-### 🌱 Currently Learning:
-- **TypeScript**: Improving my skills in TypeScript to create more scalable, type-safe applications.
-- **Next.js**: Learning Next.js to build modern, SEO-friendly, server-side rendered React apps.
-- **Web Performance**: Striving for the best practices in web performance optimization to ensure high-speed websites.
+</details>
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media" alt="Typing SVG" />
-</h2>
+## 💻 Tech Stack & Skills
 
 <p align="center">
-  <a href="https://www.instagram.com/aydocs.js/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" width="50" />
-  </a>
-  <a href="https://twitter.com/aydocs.js">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" width="50" />
-  </a>
-  <a href="https://discord.com/users/886235491010248766">
-    <img src="https://skillicons.dev/icons?i=discord" height="50" width="50" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,vue,nodejs,express,php,mysql,mongodb,docker,linux,git,github,figma,photoshop,xd,ae" alt="Tech Stack Icons" />
 </p>
 
+### 🚀 Core Skills
+
+- **Front-End:** React, Next.js, Vue.js, Tailwind CSS, Bootstrap  
+- **Back-End:** Node.js, Express.js, PHP  
+- **Database:** MySQL, MongoDB  
+- **DevOps:** Docker, Linux, CI/CD  
+- **Version Control:** Git, GitHub  
+- **Design & UI/UX:** Figma, Adobe XD, Photoshop, Illustrator
+
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F00A0A&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Front-End+Development+Tools" alt="Typing SVG" />
-</h2>
+## 📂 Featured Projects
+
+| Project             | Technologies                  | Description                           |
+| ------------------- | ----------------------------- | ------------------------------------- |
+| **Project Name 1**  | React, Node.js, MongoDB       | RESTful API and real-time chat        |
+| **Project Name 2**  | Next.js, Tailwind CSS, Docker | Docker‑containerized CMS              |
+| **Project Name 3**  | Vue.js, Express, MySQL        | User management dashboard             |
+
+*(More on my profile 👀)*
+
+---
+
+## 🌱 Currently Learning
+
+- **TypeScript:** Writing scalable, type-safe code  
+- **Next.js:** Building SEO-friendly, high-performance React apps  
+- **Web Performance:** Optimizing Lighthouse scores and critical rendering paths
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aydocs&count_private=true&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydocs&layout=compact&show_icons=true&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Back-End+Development+Tools" alt="Typing SVG" />
-</h2>
+## 🧩 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,py" />
+  <a href="https://www.instagram.com/aydocs.js/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>&nbsp;
+  <a href="https://twitter.com/aydocs.js" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>&nbsp;
+  <a href="https://discord.com/users/886235491010248766" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=4F0AF0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Development+Environment+Tools" alt="Typing SVG" />
-</h2>
+## 🎲 Bonus: Random Vibe Generator™
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=800&size=24&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=🚨+Eat+Code+Sleep+Repeat!;🎯+Break+Limits%2C+Not+Code;🧪+Bug+%3D+Feature+in+Disguise;🌈+UI+so+clean+it's+illegal" alt="Random Vibes"/>
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=99196A&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Design+Tools" alt="Typing SVG" />
-</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ae,photoshop,figma" />
-</p>
-
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=000000&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=GitHub+Stats" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/aydocs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aydocs&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydocs&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true" width="45%" />
-</p>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake (Dark)" />
-  <img src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake (Light)" />
-</p>
+> "Creativity is convincing logic to bring ideas to life."  
+> — Ajay Kapil
