@@ -1,16 +1,10 @@
-# Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Faster+One&size=40&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=🎉+Welcome+to+My+World!;💻+Code+is+My+Canvas!;🚀+Let's+Build+Something+Epic!" alt="Animated Welcome"/>
-</p>
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/aydocs/count.svg" alt="Visitor Count" />
 </p>
 
----
+### Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
 
-## Who Am I?
+I'm a 19-year-old developer from Turkey, passionate about coding and problem-solving. For me, programming is not just a skill—it's a way to express creativity and tackle complex challenges. Over the years, I’ve worked on several exciting projects with a primary focus on **Full-Stack Web Development**, **DevOps & System Development**, and **Cybersecurity / Ethical Hacking**.
 
 <details>
 <summary>📜 Quick Bio</summary>
@@ -24,7 +18,6 @@
 
 ---
 
-## 💻 Tech Stack & Skills
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=💻+Tech+Stack+%26+Skills" />
@@ -34,44 +27,43 @@
 
 ### 🖥️ **Programming Languages**:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,py,js,ts,php" />
 </p>
 
 ---
 
 ### 🛠️ **Front-End Technologies**:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,react,nextjs,vue,nodejs,express" />
 </p>
 
 ---
 
 ### ⚙️ **Back-End Technologies**:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,ruby,java" />
 </p>
 
 ---
 
 ### 🗄️ **Databases**:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
 </p>
 
 ---
 
 ### 🧑‍💻 **DevOps & Infrastructure**:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,azure,nginx,terraform" />
 </p>
 
 ---
 
 ### 🔧 **Version Control**:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
-
 ---
 
 ### 🎨 **Design & UI/UX Tools**:
