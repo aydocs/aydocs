@@ -41,7 +41,7 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
 
 ### ⚙️ **Back-End Technologies**:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,ruby,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django" />
 </p>
 
 ---
@@ -64,6 +64,7 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
+
 ---
 
 ### 🎨 **Design & UI/UX Tools**:
