@@ -5,9 +5,9 @@
 
 ---
 
-### 👋 Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
+### Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
 
-I'm 19 years old, living in Turkey, and deeply passionate about coding. I see programming as not just a skill but a way to express creativity and solve problems. Over the years, I’ve worked on several exciting projects, with a primary focus on **web development** and **Discord bot development**.
+I'm 19 years old, living in Turkey, and deeply passionate about coding. I see programming as not just a skill but a way to express creativity and solve problems. Over the years, I’ve worked on several exciting projects, with a primary focus on **Full-Stack Web Development**, **DevOps & System Development** & **Security / Ethical Hacking (Cybersecurity Development)**.
 
 I believe in constantly learning and improving, which is why I’m always exploring new technologies and diving deeper into the world of software development.
 
