@@ -18,7 +18,6 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
 
 ---
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=💻+Tech+Stack+%26+Skills" />
 </p>
@@ -79,7 +78,7 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
   Building stunning, responsive UIs with modern frameworks like **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.
   
 - **⚙️ Back-End Development**:  
-  Crafting high-performance, server-side applications using **Node.js**, **Express.js**, and **PHP**.
+  Crafting high-performance, server-side applications using **Node.js**, **Express.js**, **PHP**, **Python**, and **Django**.
 
 - **🔗 Full-Stack Development**:  
   Bridging the gap between the front-end and back-end to create seamless, full-fledged web applications.
@@ -99,19 +98,22 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
 ## 🚀 Technologies & Skills:
 
 ### 🖥️ **Programming Languages**:
-- **PHP**, **HTML**, **CSS**, **JavaScript**, **TypeScript**
+- **PHP**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Python**
 
 ### 🛠️ **Front-End Technologies**:
-- **React**, **Next.js**, **Vue.js**, **Tailwind CSS**, **Bootstrap**
+- **React**, **Next.js**, **Vue.js**, **Tailwind CSS**, **Bootstrap**, **SCSS**
 
 ### ⚙️ **Back-End Technologies**:
-- **Node.js**, **Express.js**, **PHP**, **MySQL**, **MongoDB**
+- **Node.js**, **Express.js**, **PHP**, **Python**, **Django**, **MySQL**, **MongoDB**, **PostgreSQL**, **SQLite**
 
 ### 💡 **Design & Tools**:
-- **Figma**, **Adobe XD**, **Photoshop**, **Illustrator**
+- **Figma**, **Adobe XD**, **Photoshop**, **Illustrator**, **After Effects**
 
 ### ⚙️ **DevOps & Infrastructure**:
-- **Docker**, **CI/CD**, **Linux**, **Git**, **GitHub**, **WordPress**
+- **Docker**, **CI/CD**, **Linux**, **AWS**, **Azure**, **Nginx**, **Terraform**
+
+### 🔧 **Version Control**:
+- **Git**, **GitHub**, **GitLab**
 
 ---
 
@@ -125,11 +127,11 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
 
 ## 📂 Featured Projects
 
-| Project             | Technologies                  | Description                           |
-| ------------------- | ----------------------------- | ------------------------------------- |
-| **Project Name 1**  | React, Node.js, MongoDB       | RESTful API and real-time chat        |
-| **Project Name 2**  | Next.js, Tailwind CSS, Docker | Docker‑containerized CMS              |
-| **Project Name 3**  | Vue.js, Express, MySQL        | User management dashboard             |
+| Project                         | Technologies                        | Description                                                                 |
+| ------------------------------- | ----------------------------------- | --------------------------------------------------------------------------- |
+| **EPort**                       | React, Tailwind CSS                 | [Portfolio website](https://github.com/aydocs/EPort) designed to showcase your work. |
+| **Online Rezervasyon Sistemi**  | PHP, MySQL                          | [Online reservation system](https://github.com/aydocs/online_rezervasyon_sistemi) for managing bookings. |
+| **Bootstrap Modified**          | HTML, CSS, Bootstrap                | [Customized Bootstrap framework](https://github.com/aydocs/bootstrap-modified) with enhanced responsiveness and design components. |
 
 *(More on my profile 👀)*
 
@@ -160,15 +162,3 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
   <a href="https://discord.com/users/886235491010248766" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
----
-
-## 🎲 Bonus: Random Vibe Generator™
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=800&size=24&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=🚨+Eat+Code+Sleep+Repeat!;🎯+Break+Limits%2C+Not+Code;🧪+Bug+%3D+Feature+in+Disguise;🌈+UI+so+clean+it's+illegal" alt="Random Vibes"/>
-</p>
-
----
-
-> "Creativity is convincing logic to bring ideas to life."  
-> — Ajay Kapil
