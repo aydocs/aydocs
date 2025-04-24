@@ -133,7 +133,7 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
 | **Online Rezervasyon Sistemi**  | PHP, MySQL                          | [Online reservation system](https://github.com/aydocs/online_rezervasyon_sistemi) for managing bookings. |
 | **Bootstrap Modified**          | HTML, CSS, Bootstrap                | [Customized Bootstrap framework](https://github.com/aydocs/bootstrap-modified) with enhanced responsiveness and design components. |
 
-*(More on my profile 👀)*
+*[More on my profile 👀](https://github.com/aydocs?tab=repositories)*
 
 ---
 
