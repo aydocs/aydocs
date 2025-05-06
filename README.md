@@ -66,13 +66,6 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
 
 ---
 
-### 🎨 **Design & UI/UX Tools**:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,xd,ae" />
-</p>
-
----
-
 ### 💡 What I Love to Build:
 - **🎨 Front-End Development**:  
   Building stunning, responsive UIs with modern frameworks like **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.
@@ -105,9 +98,6 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
 
 ### ⚙️ **Back-End Technologies**:
 - **Node.js**, **Express.js**, **PHP**, **Python**, **Django**, **MySQL**, **MongoDB**, **PostgreSQL**, **SQLite**
-
-### 💡 **Design & Tools**:
-- **Figma**, **Adobe XD**, **Photoshop**, **Illustrator**, **After Effects**
 
 ### ⚙️ **DevOps & Infrastructure**:
 - **Docker**, **CI/CD**, **Linux**, **AWS**, **Azure**, **Nginx**, **Terraform**
