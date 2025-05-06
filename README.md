@@ -113,6 +113,7 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
   <img src="https://github-readme-stats.vercel.app/api?username=aydocs&count_private=true&show_icons=true&theme=radical&hide_border=true&title_color=F75C19&icon_color=F7C340" width="51%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydocs&layout=compact&show_icons=true&theme=radical&hide_border=true" width="39%" />
 </p>
+
 ---
 
 ## 📂 Featured Projects
