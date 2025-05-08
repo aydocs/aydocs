@@ -40,7 +40,7 @@ I'm a 19-year-old developer from Turkey, passionate about coding and problem-sol
 
 ### ⚙️ **Back-End Technologies**:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
 </p>
 
 ---
