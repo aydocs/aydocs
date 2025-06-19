@@ -112,12 +112,9 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aydocs&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2196F3&icon_color=4CAF50&text_color=607D8B" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydocs&layout=compact&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=4CAF50&text_color=607D8B" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aydocs&theme=transparent&hide_border=true&border_radius=0" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aydocs&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2196F3&icon_color=4CAF50&text_color=607D8B" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydocs&layout=compact&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=4CAF50&text_color=607D8B" width="41%" />
+  <img src="https://streak-stats.demolab.com?user=aydocs&theme=transparent&hide_border=true&border_radius=0"/>
 </p>
 
 <p align="center">
