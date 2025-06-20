@@ -173,3 +173,4 @@ I'm a developer passionate about coding and problem-solving. For me, programming
   <a href="https://twitter.com/aydocs.js" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>&nbsp;
   <a href="https://discord.com/users/886235491010248766" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
+[![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/aydocs "Buy me a coffee")
