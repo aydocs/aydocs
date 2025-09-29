@@ -1,7 +1,3 @@
-
-  ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=aydocs)
-
-
 ### Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" /> 
 
 I'm a developer passionate about coding and problem-solving. For me, programming is not just a skill—it's a way to express creativity and tackle complex challenges. Over the years, I’ve worked on several exciting projects with a primary focus on **Full-Stack Web Development**, **DevOps & System Development**, and **Cybersecurity / Ethical Hacking**.
