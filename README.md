@@ -21,18 +21,26 @@ I'm a developer passionate about coding and problem-solving. For me, programming
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=4CAF50&center=true&vCenter=true&width=400&lines=Tech+Stack+%26+Skills" alt="Typing SVG" style="filter:none;" />
 </p>
 
+<!-- Programming Languages (Categorized) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=350&lines=Programming+Languages" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,py,js,ts,php" alt="Programming Languages" />
+  <strong style="color: #2196F3; font-size: 1.1em;">System & Core</strong><br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=rust,cs,cpp,go,dart" alt="System Languages" />
+  <br/>
+  <br/>
+  <strong style="color: #4CAF50; font-size: 1.1em;">Web & Scripting</strong><br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,py,js,ts,php" alt="Web Languages" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=400&lines=Front-End+Technologies" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,react,nextjs,vue,nodejs,express" alt="Front-End Tech" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,react,nextjs,vue,flutter,nodejs,express" alt="Front-End Tech" />
 </p>
 
 <p align="center">
@@ -57,7 +65,14 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=300&lines=Version+Control" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=450&lines=Daily+Drivers+%26+Tools" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,figma,photoshop,discord,stackoverflow" alt="Tools" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=400&lines=Version+Control" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
@@ -86,13 +101,17 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 ## 🚀 Technologies & Skills:
 
 ### 🖥️ **Programming Languages**:
-- **PHP**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Python**
+- **System & Core:** Rust, C#, C++, Go, Dart
+- **Web & Scripting:** PHP, HTML, CSS, JavaScript, TypeScript, Python
 
 ### 🛠️ **Front-End Technologies**:
-- **React**, **Next.js**, **Vue.js**, **Tailwind CSS**, **Bootstrap**, **SCSS**
+- **React**, **Next.js**, **Vue.js**, **Flutter**, **Tailwind CSS**, **Bootstrap**, **SCSS**
 
 ### ⚙️ **Back-End Technologies**:
 - **Node.js**, **Express.js**, **PHP**, **Python**, **Django**, **MySQL**, **MongoDB**, **PostgreSQL**, **SQLite**
+
+### 💻 **Development Tools**:
+- **VS Code**, **IntelliJ**, **Postman**, **Figma**, **Photoshop**
 
 ### ⚙️ **DevOps & Infrastructure**:
 - **Docker**, **CI/CD**, **Linux**, **AWS**, **Azure**, **Nginx**, **Terraform**
@@ -169,4 +188,3 @@ I'm a developer passionate about coding and problem-solving. For me, programming
   <a href="https://twitter.com/aydocs.js" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>&nbsp;
   <a href="https://discord.com/users/886235491010248766" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
-
