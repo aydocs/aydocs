@@ -6,7 +6,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
   <summary style="cursor:pointer; font-size:1.05em; font-weight:600; max-width:600px; margin:auto;">📜 Quick Bio</summary>
 
   <p style="margin-top:10px; max-width:350px; line-height:1.4; margin-left:auto; margin-right:auto;">
-    🎂 <b>Age:</b> 19<br/>
+    🎂 <b>Age:</b> 20<br/>
     🌍 <b>Location:</b> Turkey<br/>
     💻 <b>Expertise:</b> Full-Stack | DevOps | Cybersecurity<br/>
     🧠 <b>Mindset:</b> Creative problem solver with solid logical foundation<br/>
