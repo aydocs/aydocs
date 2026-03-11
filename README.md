@@ -22,7 +22,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,go,html,css,js,ts,php,python,bash,powershell,lua,react,nextjs,vue,flutter,tailwind,bootstrap,scss,nodejs,express,django,mysql,mongodb,postgresql,sqlite,docker,linux,aws,azure,nginx,terraform,vscode,idea,androidstudio,postman,figma,photoshop,discord,stackoverflow,git,github,gitlab&perline=20" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,cs,go,html,css,js,ts,php,python,bash,powershell,lua,react,nextjs,vue,flutter,tailwind,bootstrap,scss,nodejs,express,django,mysql,mongodb,postgresql,sqlite,docker,linux,aws,azure,nginx,terraform,vscode,idea,androidstudio,postman,figma,photoshop,discord,stackoverflow,git,github,gitlab&perline=20" />
 </p>
 
 ---
