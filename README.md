@@ -18,12 +18,103 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=4CAF50&center=true&vCenter=true&width=400&lines=Tech+Stack+%26+Skills" alt="Typing SVG" style="filter:none;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=350&lines=Programming+Languages" alt="Typing SVG" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=rust,cpp,cs,go,html,css,js,ts,php,python,bash,powershell,lua,react,nextjs,vue,flutter,tailwind,bootstrap,scss,nodejs,express,django,mysql,mongodb,postgresql,sqlite,docker,linux,aws,azure,nginx,terraform,vscode,idea,androidstudio,postman,figma,photoshop,discord,stackoverflow,git,github,gitlab&perline=20" />
-</p>
+<!-- Programming Languages & Technologies Table -->
+
+<table align="center" style="text-align:center; border-collapse: collapse;">
+  <tr>
+    <th>System & Core</th>
+    <th>Web & Scripting</th>
+    <th>Front-End & UI</th>
+    <th>Back-End & Databases</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=rust" height="40"/>
+      <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+      <img src="https://skillicons.dev/icons?i=cs" height="40"/>
+      <img src="https://skillicons.dev/icons?i=c" height="40"/>
+      <img src="https://skillicons.dev/icons?i=go" height="40"/>
+      <img src="https://skillicons.dev/icons?i=java" height="40"/>
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40"/>
+      <img src="https://skillicons.dev/icons?i=scala" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="40"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" height="40"/>
+      <img src="https://skillicons.dev/icons?i=ts" height="40"/>
+      <img src="https://skillicons.dev/icons?i=php" height="40"/>
+      <img src="https://skillicons.dev/icons?i=python" height="40"/>
+      <img src="https://skillicons.dev/icons?i=ruby" height="40"/>
+      <img src="https://skillicons.dev/icons?i=perl" height="40"/>
+      <img src="https://skillicons.dev/icons?i=html" height="40"/>
+      <img src="https://skillicons.dev/icons?i=css" height="40"/>
+      <img src="https://skillicons.dev/icons?i=scss" height="40"/>
+      <img src="https://skillicons.dev/icons?i=less" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=dart" height="40"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> <!-- React Native -->
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+      <img src="https://skillicons.dev/icons?i=vue" height="40"/>
+      <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+      <img src="https://skillicons.dev/icons?i=express" height="40"/>
+      <img src="https://skillicons.dev/icons?i=django" height="40"/>
+      <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+      <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th>DevOps & Infra</th>
+    <th>Tools & IDEs</th>
+    <th>Version Control</th>
+    <th>Other / Specialized</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+      <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+      <img src="https://skillicons.dev/icons?i=aws" height="40"/>
+      <img src="https://skillicons.dev/icons?i=azure" height="40"/>
+      <img src="https://skillicons.dev/icons?i=nginx" height="40"/>
+      <img src="https://skillicons.dev/icons?i=terraform" height="40"/>
+      <img src="https://skillicons.dev/icons?i=bash" height="40"/>
+      <img src="https://skillicons.dev/icons?i=powershell" height="40"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+      <img src="https://skillicons.dev/icons?i=idea" height="40"/>
+      <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+      <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+      <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+      <img src="https://skillicons.dev/icons?i=photoshop" height="40"/>
+      <img src="https://skillicons.dev/icons?i=discord" height="40"/>
+      <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="40"/>
+      <img src="https://skillicons.dev/icons?i=github" height="40"/>
+      <img src="https://skillicons.dev/icons?i=gitlab" height="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hack/hack-original.svg" height="40"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
