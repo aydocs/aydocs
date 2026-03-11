@@ -21,61 +21,8 @@ I'm a developer passionate about coding and problem-solving. For me, programming
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=4CAF50&center=true&vCenter=true&width=400&lines=Tech+Stack+%26+Skills" alt="Typing SVG" style="filter:none;" />
 </p>
 
-<!-- Programming Languages (Categorized) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=350&lines=Programming+Languages" alt="Typing SVG" />
-</p>
-<p align="center">
-  <strong style="color: #2196F3; font-size: 1.1em;">System & Core</strong><br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=rust,cs,cpp,go,dart" alt="System Languages" />
-  <br/>
-  <br/>
-  <strong style="color: #4CAF50; font-size: 1.1em;">Web & Scripting</strong><br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,py,js,ts,php" alt="Web Languages" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=400&lines=Front-End+Technologies" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,react,nextjs,vue,flutter,nodejs,express" alt="Front-End Tech" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=350&lines=Back-End+Technologies" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" alt="Back-End Tech" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=300&lines=Databases" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" alt="Databases" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=400&lines=DevOps+%26+Infrastructure" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,azure,nginx,terraform" alt="DevOps & Infrastructure" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=450&lines=Daily+Drivers+%26+Tools" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,figma,photoshop,discord,stackoverflow" alt="Tools" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=400&lines=Version+Control" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,go,html,css,js,ts,php,python,bash,powershell,lua,react,nextjs,vue,flutter,tailwind,bootstrap,scss,nodejs,express,django,mysql,mongodb,postgresql,sqlite,docker,linux,aws,azure,nginx,terraform,vscode,idea,androidstudio,postman,figma,photoshop,discord,stackoverflow,git,github,gitlab&perline=20" />
 </p>
 
 ---
@@ -98,26 +45,49 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 - **Next.js**: Deep diving into Next.js for building modern, SEO-friendly React apps.
 - **Web Performance**: Mastering performance optimization techniques for faster, smoother web experiences.
 
-## 🚀 Technologies & Skills:
+## 🚀 Technologies & Skills
 
-### 🖥️ **Programming Languages**:
-- **System & Core:** Rust, C#, C++, Go, Dart
-- **Web & Scripting:** PHP, HTML, CSS, JavaScript, TypeScript, Python
+### 🖥️ Programming Languages
+- **System:** Rust, C, C++, C#, Go  
+- **Web:** HTML, CSS, JavaScript, TypeScript, PHP  
+- **General Purpose:** Python, Dart  
+- **Scripting:** Bash, PowerShell, Lua  
 
-### 🛠️ **Front-End Technologies**:
-- **React**, **Next.js**, **Vue.js**, **Flutter**, **Tailwind CSS**, **Bootstrap**, **SCSS**
+### 🎨 Frontend
+- **Frameworks & Libraries:** React, Next.js, Vue.js, Flutter  
+- **Styling:** Tailwind CSS, Bootstrap, SCSS  
 
-### ⚙️ **Back-End Technologies**:
-- **Node.js**, **Express.js**, **PHP**, **Python**, **Django**, **MySQL**, **MongoDB**, **PostgreSQL**, **SQLite**
+### ⚙️ Backend
+- **Runtime & Frameworks:** Node.js, Express.js, Django  
+- **Languages Used:** PHP, Python  
 
-### 💻 **Development Tools**:
-- **VS Code**, **IntelliJ**, **Postman**, **Figma**, **Photoshop**
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
+- PostgreSQL  
+- SQLite  
 
-### ⚙️ **DevOps & Infrastructure**:
-- **Docker**, **CI/CD**, **Linux**, **AWS**, **Azure**, **Nginx**, **Terraform**
+### ⚙️ DevOps & Infrastructure
+- Docker  
+- Linux  
+- Nginx  
+- Terraform  
+- AWS  
+- Azure  
+- CI/CD  
 
-### 🔧 **Version Control**:
-- **Git**, **GitHub**, **GitLab**
+### 💻 Development Tools
+- VS Code  
+- IntelliJ IDEA  
+- Android Studio  
+- Postman  
+- Figma  
+- Photoshop  
+
+### 🔧 Version Control
+- Git  
+- GitHub  
+- GitLab
 
 
 ---
