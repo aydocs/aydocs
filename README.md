@@ -1,6 +1,6 @@
 ### Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" /> 
 
-I'm a developer passionate about coding and problem-solving. For me, programming is not just a skill—it's a way to express creativity and tackle complex challenges. Over the years, I’ve worked on several exciting projects with a primary focus on **Full-Stack Web Development**, **DevOps & System Development**, and **Cybersecurity / Ethical Hacking**.
+I'm a developer passionate about coding and problem-solving. For me, programming is not just a skill—it's a way to express creativity and tackle complex challenges. Over the years, I’ve worked on several exciting projects with a primary focus on **Full-Stack Web Development**, **Mobile & Desktop Applications**, **DevOps & System Development**, and **Cybersecurity / Ethical Hacking**.
 
 <details>
   <summary style="cursor:pointer; font-size:1.05em; font-weight:600; max-width:600px; margin:auto;">📜 Quick Bio</summary>
@@ -8,10 +8,10 @@ I'm a developer passionate about coding and problem-solving. For me, programming
   <p style="margin-top:10px; max-width:350px; line-height:1.4; margin-left:auto; margin-right:auto;">
     🎂 <b>Age:</b> 20<br/>
     🌍 <b>Location:</b> Turkey<br/>
-    💻 <b>Expertise:</b> Full-Stack | DevOps | Cybersecurity<br/>
+    💻 <b>Expertise:</b> Full-Stack | Mobile & Desktop | DevOps | Cybersecurity<br/>
     🧠 <b>Mindset:</b> Creative problem solver with solid logical foundation<br/>
-    🚀 <b>Passion:</b> Building scalable, secure, and performant apps<br/>
-    📚 <b>Learning:</b> Improving TypeScript and Next.js skills
+    🚀 <b>Passion:</b> Building scalable, secure, performant apps across platforms<br/>
+    📚 <b>Learning:</b> Improving Rust, C#, Java, Lua, Kotlin, Crystal, Flutter, React Native, Electron skills
   </p>
 </details>
 
@@ -22,7 +22,6 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 </p>
 
 <!-- Programming Languages & Technologies Table -->
-
 <table align="center" style="text-align:center; border-collapse: collapse;">
   <tr>
     <th>System & Core</th>
@@ -41,6 +40,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://skillicons.dev/icons?i=kotlin" height="40"/>
       <img src="https://skillicons.dev/icons?i=scala" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=lua" height="40"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=js" height="40"/>
@@ -73,6 +73,8 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
       <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
       <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="40"/> <!-- REST API -->
     </td>
   </tr>
 
@@ -92,6 +94,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://skillicons.dev/icons?i=terraform" height="40"/>
       <img src="https://skillicons.dev/icons?i=bash" height="40"/>
       <img src="https://skillicons.dev/icons?i=powershell" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/> <!-- CI/CD -->
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
@@ -110,8 +113,36 @@ I'm a developer passionate about coding and problem-solving. For me, programming
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hack/hack-original.svg" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th>Cloud / Hosting</th>
+    <th>Mobile / Desktop</th>
+    <th>CI/CD & Automation</th>
+    <th>API Developer</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=gcp" height="40"/>
+      <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+      <img src="https://skillicons.dev/icons?i=heroku" height="40"/>
+      <img src="https://skillicons.dev/icons?i=digitalocean" height="40"/>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> <!-- React Native -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=circleci" height="40"/>
+      <img src="https://skillicons.dev/icons?i=githubactions" height="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
     </td>
   </tr>
 </table>
@@ -125,16 +156,23 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 - **⚙️ Back-End Development**:  
   Crafting high-performance, server-side applications using **Node.js**, **Express.js**, **PHP**, **Python**, and **Django**.
 
-- **🔗 Full-Stack Development**:  
-  Bridging the gap between the front-end and back-end to create seamless, full-fledged web applications.
+- **📱 Mobile & Desktop Applications**:  
+  Developing cross-platform apps with **Flutter**, **React Native**, and **Electron**.
 
-- **⚡ Web Performance Optimization**:  
-  Focusing on enhancing website speed, performance, and user experience with cutting-edge techniques.
+- **🔗 Full-Stack Development**:  
+  Bridging the gap between the front-end and back-end to create seamless, full-fledged web and application solutions.
+
+- **⚡ Web & App Performance Optimization**:  
+  Focusing on enhancing speed, performance, and user experience with cutting-edge techniques.
+
+- **🔗 API Development**:  
+  Designing scalable RESTful and GraphQL APIs with Node.js, Express, Python/Django, and proper documentation.
 
 ### 🌱 Currently Learning:
 - **TypeScript**: Perfecting my skills for writing clean, scalable, type-safe applications.
 - **Next.js**: Deep diving into Next.js for building modern, SEO-friendly React apps.
-- **Web Performance**: Mastering performance optimization techniques for faster, smoother web experiences.
+- **Web & App Performance**: Mastering optimization techniques for faster, smoother experiences.
+- **Flutter & Electron**: Expanding cross-platform mobile and desktop expertise.
 
 ---
 
