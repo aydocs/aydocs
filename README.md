@@ -18,7 +18,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=350&lines=Programming+Languages" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=350&lines=Technologies+and+Skills" alt="Typing SVG" />
 </p>
 
 <!-- Programming Languages & Technologies Table -->
@@ -135,51 +135,6 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 - **TypeScript**: Perfecting my skills for writing clean, scalable, type-safe applications.
 - **Next.js**: Deep diving into Next.js for building modern, SEO-friendly React apps.
 - **Web Performance**: Mastering performance optimization techniques for faster, smoother web experiences.
-
-## 🚀 Technologies & Skills
-
-### 🖥️ Programming Languages
-- **System:** Rust, C, C++, C#, Go  
-- **Web:** HTML, CSS, JavaScript, TypeScript, PHP  
-- **General Purpose:** Python, Dart  
-- **Scripting:** Bash, PowerShell, Lua  
-
-### 🎨 Frontend
-- **Frameworks & Libraries:** React, Next.js, Vue.js, Flutter  
-- **Styling:** Tailwind CSS, Bootstrap, SCSS  
-
-### ⚙️ Backend
-- **Runtime & Frameworks:** Node.js, Express.js, Django  
-- **Languages Used:** PHP, Python  
-
-### 🗄️ Databases
-- MySQL  
-- MongoDB  
-- PostgreSQL  
-- SQLite  
-
-### ⚙️ DevOps & Infrastructure
-- Docker  
-- Linux  
-- Nginx  
-- Terraform  
-- AWS  
-- Azure  
-- CI/CD  
-
-### 💻 Development Tools
-- VS Code  
-- IntelliJ IDEA  
-- Android Studio  
-- Postman  
-- Figma  
-- Photoshop  
-
-### 🔧 Version Control
-- Git  
-- GitHub  
-- GitLab
-
 
 ---
 
