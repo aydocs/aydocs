@@ -200,9 +200,6 @@ I'm a developer passionate about coding and problem-solving. For me, programming
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=1976D2&center=true&vCenter=true&width=400&lines=Featured+Projects" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=1976D2&center=true&vCenter=true&width=400&lines=Featured+Projects" alt="Typing SVG" />
-</p>
 
 <table align="center" style="max-width: 650px; width: 90%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;">
   <thead>
