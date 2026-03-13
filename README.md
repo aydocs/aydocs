@@ -180,9 +180,6 @@ I'm a developer passionate about coding and problem-solving. For me, programming
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=607D8B&center=true&vCenter=true&width=350&lines=GitHub+Stats" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=607D8B&center=true&vCenter=true&width=350&lines=GitHub+Stats" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aydocs&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&title_color=2196F3&icon_color=4CAF50&text_color=607D8B" width="48%" />
