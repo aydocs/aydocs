@@ -41,6 +41,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://skillicons.dev/icons?i=scala" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="40"/>
       <img src="https://skillicons.dev/icons?i=lua" height="40"/>
+      <img src="https://skillicons.dev/icons?i=dotnet" height="40"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=js" height="40"/>
