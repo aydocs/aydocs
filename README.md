@@ -223,15 +223,10 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <td style="color:#1976d2;">Rust</td>
       <td>A custom programming language built from scratch with Rust.</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/aydocs/Auto-Recovery" target="_blank" style="color:#1976d2; font-weight:600; text-decoration:none;">Auto-Recovery</a></td>
-      <td style="color:#1976d2;">HTML</td>
-      <td>Website source code for Ada Star Auto Recovery (adayildizotokurtarma.com).</td>
-    </tr>
     <tr style="background-color:#e3f2fd;">
-      <td><a href="https://github.com/aydocs/Medical" target="_blank" style="color:#1976d2; font-weight:600; text-decoration:none;">Medical</a></td>
-      <td style="color:#1976d2;">TypeScript</td>
-      <td>Medical application built with TypeScript for healthcare management.</td>
+      <td><a href="https://github.com/aydocs/Fang" target="_blank" style="color:#1976d2; font-weight:600; text-decoration:none;">Medical</a></td>
+      <td style="color:#1976d2;">Go</td>
+      <td>[Medical application built with TypeScript for healthcare management.](https://discord.gg/ahW2Yau7)</td>
     </tr>
   </tbody>
 </table>
