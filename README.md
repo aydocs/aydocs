@@ -3,15 +3,15 @@
 I'm a developer passionate about coding and problem-solving. For me, programming is not just a skill-it's a way to express creativity and tackle complex challenges. Over the years, I've worked on several exciting projects with a primary focus on **Full-Stack Web Development**, **Mobile & Desktop Applications**, **DevOps & System Development**, and **Cybersecurity / Ethical Hacking**.
 
 <details>
-  <summary style="cursor:pointer; font-size:1.05em; font-weight:600; max-width:600px; margin:auto;">?? Quick Bio</summary>
+  <summary style="cursor:pointer; font-size:1.05em; font-weight:600; max-width:600px; margin:auto;">📌 Quick Bio</summary>
 
   <p style="margin-top:10px; max-width:350px; line-height:1.4; margin-left:auto; margin-right:auto;">
-    ?? <b>Age:</b> 20<br/>
-    ?? <b>Location:</b> Turkey<br/>
-    ?? <b>Expertise:</b> Full-Stack | Mobile & Desktop | DevOps | Cybersecurity<br/>
-    ?? <b>Mindset:</b> Creative problem solver with solid logical foundation<br/>
-    ?? <b>Passion:</b> Building scalable, secure, performant apps across platforms<br/>
-    ?? <b>Learning:</b> Improving Rust, C#, Java, Lua, Kotlin, Crystal, Flutter, React Native, Electron skills
+    🧑 <b>Age:</b> 20<br/>
+    🌍 <b>Location:</b> Turkey<br/>
+    💻 <b>Expertise:</b> Full-Stack | Mobile & Desktop | DevOps | Cybersecurity<br/>
+    🧠 <b>Mindset:</b> Creative problem solver with solid logical foundation<br/>
+    🎯 <b>Passion:</b> Building scalable, secure, performant apps across platforms<br/>
+    📚 <b>Learning:</b> Improving Rust, C#, Java, Lua, Kotlin, Crystal, Flutter, React Native, Electron skills
   </p>
 </details>
 
@@ -56,6 +56,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://skillicons.dev/icons?i=less" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="40"/>
       <img src="https://skillicons.dev/icons?i=dart" height="40"/>
+      <img src="https://skillicons.dev/icons?i=laravel" height="40"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=react" height="40"/>
@@ -65,6 +66,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
       <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
       <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+      <img src="https://skillicons.dev/icons?i=astro" height="40"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
@@ -99,12 +101,6 @@ I'm a developer passionate about coding and problem-solving. For me, programming
     <td>
       <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
       <img src="https://skillicons.dev/icons?i=idea" height="40"/>
-      <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
-      <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-      <img src="https://skillicons.dev/icons?i=figma" height="40"/>
-      <img src="https://skillicons.dev/icons?i=photoshop" height="40"/>
-      <img src="https://skillicons.dev/icons?i=discord" height="40"/>
-      <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=git" height="40"/>
@@ -146,26 +142,39 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 
 ---
 
-### ?? What I Love to Build:
-- **?? Front-End Development**:  
+### 🛠️ Tools & Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" title="Android Studio"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" title="Photoshop"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=discord" height="40" title="Discord"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" title="Stack Overflow"/>
+</p>
+
+---
+
+### 🚀 What I Love to Build:
+- **🎨 Front-End Development**:  
   Building stunning, responsive UIs with modern frameworks like **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.
 
-- **?? Back-End Development**:  
+- **⚙️ Back-End Development**:  
   Crafting high-performance, server-side applications using **Node.js**, **Express.js**, **PHP**, **Python**, and **Django**.
 
-- **?? Mobile & Desktop Applications**:  
+- **📱 Mobile & Desktop Applications**:  
   Developing cross-platform apps with **Flutter**, **React Native**, and **Electron**.
 
-- **?? Full-Stack Development**:  
+- **🌐 Full-Stack Development**:  
   Bridging the gap between the front-end and back-end to create seamless, full-fledged web and application solutions.
 
-- **? Web & App Performance Optimization**:  
+- **⚡ Web & App Performance Optimization**:  
   Focusing on enhancing speed, performance, and user experience with cutting-edge techniques.
 
-- **?? API Development**:  
+- **🔌 API Development**:  
   Designing scalable RESTful and GraphQL APIs with Node.js, Express, Python/Django, and proper documentation.
 
-### ?? Currently Learning:
+### 📖 Currently Learning:
 - **TypeScript**: Perfecting my skills for writing clean, scalable, type-safe applications.
 - **Next.js**: Deep diving into Next.js for building modern, SEO-friendly React apps.
 - **Web & App Performance**: Mastering optimization techniques for faster, smoother experiences.
@@ -220,22 +229,22 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <td>A custom programming language built from scratch with Rust.</td>
     </tr>
     <tr style="background-color:#e3f2fd;">
-      <td><a href="https://github.com/aydocs/Fang" target="_blank" style="color:#1976d2; font-weight:600; text-decoration:none;">Medical</a></td>
+      <td><a href="https://github.com/aydocs/Fang" target="_blank" style="color:#1976d2; font-weight:600; text-decoration:none;">Fang</a></td>
       <td style="color:#1976d2;">Go</td>
-      <td>[Medical application built with TypeScript for healthcare management.](https://discord.gg/ahW2Yau7)</td>
+      <td>A next-generation web application security scanner engineered for red teams, pentesters, and security researchers. Built in Go for blazing fast performance with async goroutines.</td>
     </tr>
   </tbody>
 </table>
-
+aydocs/AFollowMe
 <p align="center" style="margin-top:15px;">
   <a href="https://github.com/aydocs?tab=repositories" target="_blank" style="font-weight:600; text-decoration:none; color:#1976d2;">
-    Explore more projects on my GitHub ??
+    Explore more projects on my GitHub 🚀
   </a>
 </p>
 
 ---
 
-## ?? Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/aydocs.js/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>&nbsp;
