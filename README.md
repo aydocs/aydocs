@@ -75,7 +75,6 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
       <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="40"/>
     </td>
   </tr>
 
@@ -114,7 +113,6 @@ I'm a developer passionate about coding and problem-solving. For me, programming
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hack/hack-original.svg" height="40"/>
     </td>
   </tr>
 
@@ -138,11 +136,9 @@ I'm a developer passionate about coding and problem-solving. For me, programming
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
-      <img src="https://skillicons.dev/icons?i=circleci" height="40"/>
       <img src="https://skillicons.dev/icons?i=githubactions" height="40"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
     </td>
   </tr>
