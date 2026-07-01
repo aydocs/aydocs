@@ -56,7 +56,6 @@ Passionate about software development, coding, and problem-solving. Programming 
       <img src="https://skillicons.dev/icons?i=scss" height="40"/>
       <img src="https://skillicons.dev/icons?i=less" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" height="40" title="Blade"/>
       <img src="https://skillicons.dev/icons?i=dart" height="40"/>
     </td>
     <td>
@@ -139,7 +138,6 @@ Passionate about software development, coding, and problem-solving. Programming 
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
       <img src="https://skillicons.dev/icons?i=fastapi" height="40" title="FastAPI"/>
-      <img src="https://skillicons.dev/icons?i=swagger" height="40" title="Swagger"/>
       <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman"/>
     </td>
   </tr>
