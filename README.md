@@ -1,33 +1,33 @@
-### Hi, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" /> 
+### Hello, I'm Aydocs! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
 
-I'm a developer passionate about coding and problem-solving. For me, programming is not just a skill-it's a way to express creativity and tackle complex challenges. Over the years, I've worked on several exciting projects with a primary focus on **Full-Stack Web Development**, **Mobile & Desktop Applications**, **DevOps & System Development**, and **Cybersecurity / Ethical Hacking**.
+Passionate about software development, coding, and problem-solving. Programming is not just a skill for me - it's a way to express creativity and solve complex problems. I've worked on numerous projects across **Full-Stack Web Development**, **Mobile & Desktop Applications**, **DevOps & System Development**, and **Cybersecurity / Ethical Hacking**.
 
 <details>
-  <summary style="cursor:pointer; font-size:1.05em; font-weight:600; max-width:600px; margin:auto;">📌 Quick Bio</summary>
+  <summary style="cursor:pointer; font-size:1.05em; font-weight:600; max-width:600px; margin:auto;">📌 Quick Info</summary>
 
   <p style="margin-top:10px; max-width:350px; line-height:1.4; margin-left:auto; margin-right:auto;">
     🧑 <b>Age:</b> 20<br/>
     🌍 <b>Location:</b> Turkey<br/>
     💻 <b>Expertise:</b> Full-Stack | Mobile & Desktop | DevOps | Cybersecurity<br/>
     🧠 <b>Mindset:</b> Creative problem solver with solid logical foundation<br/>
-    🎯 <b>Passion:</b> Building scalable, secure, performant apps across platforms<br/>
-    📚 <b>Learning:</b> Improving Rust, C#, Java, Lua, Kotlin, Crystal, Flutter, React Native, Electron skills
+    🎯 <b>Passion:</b> Cross-platform scalable, secure, and high-performance applications<br/>
+    📚 <b>Learning:</b> Rust, C#, Java, Lua, Kotlin, Crystal, Flutter, React Native, Electron
   </p>
 </details>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=350&lines=Technologies+and+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=350&lines=Tech+Stack+%26+Skills" alt="Typing SVG" />
 </p>
 
-<!-- Programming Languages & Technologies Table -->
+<!-- Programming Languages and Technologies Table -->
 <table align="center" style="text-align:center; border-collapse: collapse;">
   <tr>
-    <th>System & Core</th>
+    <th>System & Kernel</th>
     <th>Web & Scripting</th>
-    <th>Front-End & UI</th>
-    <th>Back-End & Databases</th>
+    <th>Frontend & UI</th>
+    <th>Backend, APIs & Databases</th>
   </tr>
   <tr>
     <td>
@@ -42,6 +42,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="40"/>
       <img src="https://skillicons.dev/icons?i=lua" height="40"/>
       <img src="https://skillicons.dev/icons?i=dotnet" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="40"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=js" height="40"/>
@@ -55,8 +56,8 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://skillicons.dev/icons?i=scss" height="40"/>
       <img src="https://skillicons.dev/icons?i=less" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" height="40" title="Blade"/>
       <img src="https://skillicons.dev/icons?i=dart" height="40"/>
-      <img src="https://skillicons.dev/icons?i=laravel" height="40"/>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=react" height="40"/>
@@ -72,19 +73,20 @@ I'm a developer passionate about coding and problem-solving. For me, programming
       <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
       <img src="https://skillicons.dev/icons?i=express" height="40"/>
       <img src="https://skillicons.dev/icons?i=django" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" title="Laravel"/>
       <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
       <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
       <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
       <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=redis" height="40"/>
     </td>
   </tr>
 
   <tr>
-    <th>DevOps & Infra</th>
-    <th>Tools & IDEs</th>
+    <th>DevOps & Infrastructure</th>
+    <th>Tools & IDE's</th>
     <th>Version Control</th>
-    <th>Other / Specialized</th>
+    <th>Other / Custom</th>
   </tr>
   <tr>
     <td>
@@ -116,7 +118,7 @@ I'm a developer passionate about coding and problem-solving. For me, programming
     <th>Cloud / Hosting</th>
     <th>Mobile / Desktop</th>
     <th>CI/CD & Automation</th>
-    <th>API Developer</th>
+    <th>API Development</th>
   </tr>
   <tr>
     <td>
@@ -136,13 +138,16 @@ I'm a developer passionate about coding and problem-solving. For me, programming
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="40" title="FastAPI"/>
+      <img src="https://skillicons.dev/icons?i=swagger" height="40" title="Swagger"/>
+      <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tools & Environment
+### 🛠️ Tools & Workspace
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" title="Android Studio"/>&nbsp;
@@ -155,30 +160,31 @@ I'm a developer passionate about coding and problem-solving. For me, programming
 
 ---
 
-### 🚀 What I Love to Build:
-- **🎨 Front-End Development**:  
-  Building stunning, responsive UIs with modern frameworks like **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.
+### 🚀 What I Love Building:
 
-- **⚙️ Back-End Development**:  
-  Crafting high-performance, server-side applications using **Node.js**, **Express.js**, **PHP**, **Python**, and **Django**.
+- **🎨 Frontend Development**:  
+  Creating eye-catching, responsive interfaces using modern frameworks (**React**, **Next.js**, **Tailwind CSS**, **TypeScript**).
+
+- **⚙️ Backend Development**:  
+  Building high-performance server-side applications using **Node.js**, **Express.js**, **PHP**, **Python**, and **Django**.
 
 - **📱 Mobile & Desktop Applications**:  
-  Developing cross-platform apps with **Flutter**, **React Native**, and **Electron**.
+  Developing cross-platform applications with **Flutter**, **React Native**, and **Electron**.
 
 - **🌐 Full-Stack Development**:  
-  Bridging the gap between the front-end and back-end to create seamless, full-fledged web and application solutions.
+  Bridging frontend and backend to create seamless, full-fledged web and application solutions.
 
-- **⚡ Web & App Performance Optimization**:  
-  Focusing on enhancing speed, performance, and user experience with cutting-edge techniques.
+- **⚡ Web & Application Performance Optimization**:  
+  Focused on speed, performance, and enhancing user experience with cutting-edge techniques.
 
 - **🔌 API Development**:  
-  Designing scalable RESTful and GraphQL APIs with Node.js, Express, Python/Django, and proper documentation.
+  Designing and documenting scalable RESTful and GraphQL APIs using **Node.js/Express**, **Python/FastAPI**, **Laravel/Sanctum**, and **GraphQL**.
 
 ### 📖 Currently Learning:
-- **TypeScript**: Perfecting my skills for writing clean, scalable, type-safe applications.
-- **Next.js**: Deep diving into Next.js for building modern, SEO-friendly React apps.
-- **Web & App Performance**: Mastering optimization techniques for faster, smoother experiences.
-- **Flutter & Electron**: Expanding cross-platform mobile and desktop expertise.
+- **TypeScript**: Mastering clean, scalable, type-safe application development.
+- **Next.js**: Deep-diving into modern, SEO-friendly React applications.
+- **Web & Application Performance**: Perfecting optimization techniques for faster, smoother experiences.
+- **Flutter & Electron**: Expanding my expertise in cross-platform mobile and desktop solutions.
 
 ---
 
@@ -216,35 +222,35 @@ I'm a developer passionate about coding and problem-solving. For me, programming
     <tr style="background-color:#e3f2fd;">
       <td><a href="https://github.com/aydocs/FangCode" target="_blank" style="color:#1976d2; font-weight:600; text-decoration:none;">FangCode</a></td>
       <td style="color:#1976d2;">JavaScript, Node.js</td>
-      <td>Agent-first, MCP-native multi-agent framework for MiMoCode with 31 specialized agents.</td>
+      <td>MCP-native multi-agent framework with 31 custom agents for MiMoCode.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/aydocs/DocSocial" target="_blank" style="color:#1976d2; font-weight:600; text-decoration:none;">DocSocial</a></td>
       <td style="color:#1976d2;">Python</td>
-      <td>Advanced OSINT Intelligence Suite for social media reconnaissance and analysis.</td>
+      <td>Advanced OSINT Intelligence Suite for social media discovery and analysis.</td>
     </tr>
     <tr style="background-color:#e3f2fd;">
       <td><a href="https://github.com/aydocs/EmaLang" target="_blank" style="color:#1976d2; font-weight:600; text-decoration:none;">EmaLang</a></td>
       <td style="color:#1976d2;">Rust</td>
-      <td>A custom programming language built from scratch with Rust.</td>
+      <td>A custom programming language built from scratch using Rust.</td>
     </tr>
     <tr style="background-color:#e3f2fd;">
       <td><a href="https://github.com/aydocs/Fang" target="_blank" style="color:#1976d2; font-weight:600; text-decoration:none;">Fang</a></td>
       <td style="color:#1976d2;">Go</td>
-      <td>A next-generation web application security scanner engineered for red teams, pentesters, and security researchers. Built in Go for blazing fast performance with async goroutines.</td>
+      <td>Next-generation web application security scanner designed for red teams, pentesters, and security researchers. Built in Go for high performance with async goroutines.</td>
     </tr>
   </tbody>
 </table>
-aydocs/AFollowMe
+
 <p align="center" style="margin-top:15px;">
   <a href="https://github.com/aydocs?tab=repositories" target="_blank" style="font-weight:600; text-decoration:none; color:#1976d2;">
-    Explore more projects on my GitHub 🚀
+    Explore more projects on GitHub 🚀
   </a>
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 📬 Contact Me
 
 <p align="center">
   <a href="https://www.instagram.com/aydocs.js/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>&nbsp;
