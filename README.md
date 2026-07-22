@@ -24,7 +24,7 @@ Passionate about software development, coding, and problem-solving. Programming 
 <!-- Programming Languages and Technologies Table -->
 <table align="center" style="text-align:center; border-collapse: collapse;">
   <tr>
-    <th>System & Kernel</th>
+    <th>System & Kernel (Familiar with) Rust+Go Advanced</th>
     <th>Web & Scripting</th>
     <th>Frontend & UI</th>
     <th>Backend, APIs & Databases</th>
