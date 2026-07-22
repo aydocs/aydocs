@@ -241,7 +241,7 @@ Passionate about software development, coding, and problem-solving. Programming 
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="https://www.instagram.com/aydocs.js/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>&nbsp;
-  <a href="https://twitter.com/aydocs.js" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>&nbsp;
+  <a href="https://www.instagram.com/codewithaydocs/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>&nbsp;
+  <a href="https://twitter.com/codewithaydocs" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>&nbsp;
   <a href="https://discord.com/users/886235491010248766" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
