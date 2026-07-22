@@ -33,14 +33,7 @@ Passionate about software development, coding, and problem-solving. Programming 
     <td>
       <img src="https://skillicons.dev/icons?i=rust" height="40"/>
       <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-      <img src="https://skillicons.dev/icons?i=cs" height="40"/>
-      <img src="https://skillicons.dev/icons?i=c" height="40"/>
       <img src="https://skillicons.dev/icons?i=go" height="40"/>
-      <img src="https://skillicons.dev/icons?i=java" height="40"/>
-      <img src="https://skillicons.dev/icons?i=kotlin" height="40"/>
-      <img src="https://skillicons.dev/icons?i=scala" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="40"/>
-      <img src="https://skillicons.dev/icons?i=lua" height="40"/>
       <img src="https://skillicons.dev/icons?i=dotnet" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="40"/>
     </td>
@@ -48,9 +41,6 @@ Passionate about software development, coding, and problem-solving. Programming 
       <img src="https://skillicons.dev/icons?i=js" height="40"/>
       <img src="https://skillicons.dev/icons?i=ts" height="40"/>
       <img src="https://skillicons.dev/icons?i=php" height="40"/>
-      <img src="https://skillicons.dev/icons?i=python" height="40"/>
-      <img src="https://skillicons.dev/icons?i=ruby" height="40"/>
-      <img src="https://skillicons.dev/icons?i=perl" height="40"/>
       <img src="https://skillicons.dev/icons?i=html" height="40"/>
       <img src="https://skillicons.dev/icons?i=css" height="40"/>
       <img src="https://skillicons.dev/icons?i=scss" height="40"/>
